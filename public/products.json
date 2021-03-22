@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 2465478,
+      "title": "Blue Shoes",
+      "description": "4 MSL",
+      "availableSizes": ["8", "9", "10", "11", "12"],
+      "style": "Black with custom print",
+      "price": 40,
+      "installments": 5,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 5429653,
+      "title": "Orange Boots",
+      "description": "",
+      "availableSizes": ["8", "9", "10", "11", "12"],
+      "style": "Front print and paisley print",
+      "price": 55,
+      "installments": 5,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 7365894,
+      "title": "Pink Shoes",
+      "description": "GPX Poly 1",
+      "availableSizes": ["8", "9", "10", "11", "12"],
+      "style": "Front tie dye print",
+      "price": 25,
+      "installments": 3,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    }
+  ]
+}
